@@ -118,7 +118,7 @@ void order()
     int n, j = 0, i = 0;
     do
     {
-        printf("please enter the food id number and its quantity");
+        printf("please enter the food id number and its quantitys");
         for (i = 0; i < 2; i++)
         {
             scanf("%d", &a[j][i]);
